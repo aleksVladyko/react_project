@@ -1,0 +1,15 @@
+.myButton {
+ height: 30px;
+ width: 60%;
+ margin-top: 10px;
+ cursor: pointer;
+ background: blue;
+ color: azure;
+ border-radius: 10px;
+ 
+}
+.myButton:hover {
+    background: azure;
+    color: blue;
+    transform: scaleY(1.3) ;
+}

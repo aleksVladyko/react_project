@@ -1,0 +1,11 @@
+.active {
+    color: blue;
+    text-decoration: underline solid blue;
+    text-underline-offset: 20% ;
+    margin-left: 10px;
+}
+.notactive {
+    color: orangered;
+    text-decoration: none;
+    margin-left: 10px;
+}

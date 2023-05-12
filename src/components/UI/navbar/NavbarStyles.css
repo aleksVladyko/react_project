@@ -1,0 +1,25 @@
+.navbar_form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 9vh;
+    font-size: 1.3em;
+    background: rgb(152, 215, 215);
+    opacity: .5;
+}
+
+
+/* .activ_link {
+    color: rgb(178, 15, 232);
+    text-decoration: none;
+}
+
+.navbar_link:hover {
+    text-decoration: underline solid orangered;
+    text-underline-offset: 20% ;
+}
+.active {
+    color: orangered;
+    text-decoration: underline solid orangered;
+    text-underline-offset: 20% ;
+} */

@@ -1,0 +1,15 @@
+ {
+    "ingredients": [
+        {   
+            "id": 1,
+            "name": "молоко",
+            "price": null
+        },
+        {
+            "id": 2,
+            "name": "яблоко",
+            "price": null
+        }
+    ]
+}
+ 

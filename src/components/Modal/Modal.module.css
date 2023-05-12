@@ -1,0 +1,79 @@
+.darkBG {
+    background-color: rgba(128, 128, 128, 0.8);
+    width: 100vw;
+    height: 100vh;
+    z-index: 1;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: fixed;
+}
+
+.centered {
+    position: relative;
+    max-height: 560px;
+    max-width: 400px;
+    background: whitesmoke;
+    padding-top: 5px;
+    top: 50%;
+    left: 50%;
+    border-radius: 16px;
+    transform: translate(-50%, -50%);
+}
+.modalHeader {
+    text-align: center;
+
+}
+.iconClose {
+    position: fixed;
+    top: -10px;
+    left: 390px;
+    text-align: right;
+}
+
+.modalContent {
+    border-radius: 16px;
+   background: rgb(172, 172, 238);
+  
+    
+}
+.formContent{
+    display: flex;
+    padding: 4px;
+}
+.inputText {
+    padding: 5px;
+    background-color: rgb(240, 232, 232);
+    border-radius: 10px;
+    border: 1px solid purple;
+    color: rgb(0, 0, 0);
+    font-size: 1.5rem;
+
+}
+.buttonClose {
+    padding: 5px;
+    color: aliceblue;
+    background-color: rgb(78, 109, 220);
+    border-radius: 16px;
+    border: 1px solid rgb(39, 25, 39);
+}
+.formButtton{
+    text-align: center;
+    padding-bottom: 5px;
+}
+.modalButton{
+    color: aliceblue;
+    background-color: rgb(78, 109, 220);
+    font-size: 1.5rem;
+    border-radius: 16px;
+    border: 1px solid rgb(39, 25, 39);
+}
+.selectText {
+    padding: 5px;
+   margin-left: 5px;
+    background-color: rgb(240, 232, 232);
+    border-radius: 10px;
+    border: 1px solid purple;
+    color: rgb(0, 0, 0);
+    font-size: 1.5rem;
+}

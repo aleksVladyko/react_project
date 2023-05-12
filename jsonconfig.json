@@ -1,0 +1,6 @@
+{
+   "compailerOptions": {
+    "baseUrl": "src"
+   },
+   "includes": ["src"]
+}
