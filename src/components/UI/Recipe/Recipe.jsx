@@ -64,7 +64,7 @@ const Recipe = (props) => {
                     <p className="card-text">
                         Небольшой пример текста, который должен основываться на
                         названии карты и составлять основную часть содержимого
-                        карты.
+                        карты.!!!
                     </p>
                     <ol className="list-group list-group-numbered">
                         {oneIngredient}
